@@ -4,7 +4,7 @@ YAJL is a portable JSON parsing and serialization library built in ANSI C.
 
 For more information about the library in general and its usage, see the [main repository](https://github.com/lloyd/yajl)
 
-## What makes this different from the main YAJL repo? ##
+### What makes this different from the main YAJL repo? ###
 
 Makefile files have been premade by me for compiling YAJL on android for armeabi, armeabi-v7a, mips and x86. Also precompiled binaries are in the /libs directory.
 
