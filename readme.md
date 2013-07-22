@@ -2,7 +2,9 @@
 
 YAJL is a portable JSON parsing and serialization library built in ANSI C.
 
-For more information about the library in general and its usage, see the [main repository](https://github.com/lloyd/yajl)
+For more information about the library in general and its usage, see the [main repository](https://github.com/lloyd/yajl).  
+
+If you have Android specific issues, I can help, but issues not related to Android should be directed to the main repository as I am not an official maintainer.
 
 ### What makes this different from the main YAJL repo? ###
 
